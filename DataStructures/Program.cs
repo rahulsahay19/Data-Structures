@@ -13,6 +13,8 @@ namespace DataStructures
 
             obj.AccessList();
             AccessStudents();
+            TwoDimArray obj2 = new TwoDimArray();
+            obj2.Access2DArray();
 
             Console.ReadLine();
         }

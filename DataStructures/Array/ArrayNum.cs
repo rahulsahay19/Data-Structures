@@ -4,7 +4,7 @@ namespace DataStructures.Array
 {
    public class ArrayNum
     {
-        private int[] numbers = new [] {1, 2, 3, 4, 5};
+        private int[] numbers = {1, 2, 3, 4, 5};
 
         //Array scenarios:-
         //Search:- O(n)
